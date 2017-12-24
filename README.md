@@ -24,3 +24,6 @@ To also learn to:
 -- a Google Could Endpoints(GCE) project that serves those jokes,
 -- an Android Library containing an activity for displaying jokes,
 -- and an Android app that fetches jokes from the GCE module and passes them to the Android Library for display.
+
+
+![MainActivity-GradleProject](https://user-images.githubusercontent.com/10702944/34324732-a97a6e74-e831-11e7-81ff-a64292783d91.png)
