@@ -19,11 +19,22 @@ To also learn to:
 
 
 
-- The finished app will consist of four modules.
--- A Java library that provides jokes,
--- a Google Could Endpoints(GCE) project that serves those jokes,
--- an Android Library containing an activity for displaying jokes,
--- and an Android app that fetches jokes from the GCE module and passes them to the Android Library for display.
+* The finished app will consist of four modules.
+  * A Java library that provides jokes,
+  * A Google Could Endpoints(GCE) project that serves those jokes,
+  * An Android Library containing an activity for displaying jokes,
+  * An Android app that fetches jokes from the GCE module and passes them to the Android Library for display
+  
+  
+# Paid Version
+
+MainActivity | LibraryActivity
+
+<img src="https://user-images.githubusercontent.com/10702944/34324732-a97a6e74-e831-11e7-81ff-a64292783d91.png" height="500"/>  <img src="https://user-images.githubusercontent.com/10702944/34324733-a9902296-e831-11e7-85fe-6b19cdde9840.png" height="500"/>
 
 
-![MainActivity-GradleProject](https://user-images.githubusercontent.com/10702944/34324732-a97a6e74-e831-11e7-81ff-a64292783d91.png)
+# Free Version
+
+MainActivity | LibraryActivity
+
+<img src="https://user-images.githubusercontent.com/10702944/34324734-a9a53d66-e831-11e7-88b9-76a3644f52b3.png" height="500"/>  <img src="https://user-images.githubusercontent.com/10702944/34324735-a9bc9948-e831-11e7-8efa-d5db343c926c.png" height="500"/>
